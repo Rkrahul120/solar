@@ -1,0 +1,115 @@
+body{
+    background-image: url(space.png);
+    background-attachment: fixed;
+}
+#neptune{
+    height: 900px;
+    width: 900px;
+    border: 1px solid white;
+    border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+#nepimg{
+    position: absolute;
+    top: 100px;
+    left: 290px;
+}
+#uranus{
+    height: 800px;
+    width: 800px;
+    border: 1px solid white;
+    border-radius: 50%; 
+    display: flex;
+align-items: center;
+justify-content: space-around; 
+}
+#uraimg{
+    position: absolute;
+    top: 300px;
+    left: 220px;
+}
+.saturn{
+    height: 700px;
+    width: 700px;
+    border-radius: 50%;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#satimg{
+    position: absolute;
+    top: 400px;
+    left: 250px;
+}
+#jupiter{
+    height: 600px;
+    width: 600px;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#jupimg{
+    position: absolute;
+    top: 600px;
+    left: 350px; 
+}
+#mars{
+    height: 500px;
+    width: 500px;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#marsimg{
+    position: absolute;
+    top: 655px;
+    left: 680px;
+}
+#earth{
+    height: 400px;
+    width: 400px;
+    border: 1px solid white;
+    border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+#earthimg{
+    position: absolute;
+    top: 600px;
+    left: 500px;
+}
+#venus{
+    height: 300px;
+    width: 300px;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#venusimg{
+    position: absolute;
+    top: 450px;
+    left: 750px;
+}
+#mercury{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#mercuryimg{
+    position: absolute;
+    top: 330px;
+}
